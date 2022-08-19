@@ -1,3 +1,5 @@
+![Linkedin banner](https://user-images.githubusercontent.com/45787976/185700236-59949c7f-a481-4c94-857c-26ae4ac5d4d5.png)
+
 ### Hi there 👋
 
 Hi, I'm Marco, a Web Developer Jr from Brazil, currently I am open for oportunities.
