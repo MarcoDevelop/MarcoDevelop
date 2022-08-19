@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm Marco, a Web Developer Jr from Brazil, currently I am open for oportunities.
+
 <!--
 **MarcoDevelop/MarcoDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
