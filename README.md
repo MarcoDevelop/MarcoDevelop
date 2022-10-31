@@ -10,7 +10,7 @@ I am very hard-working, with a lot of desire to learn and learn very fast. I als
 
 I have skills with JavaScript, typescript, Node.js, ReactJS, React Native, Next.js, and SQL.
 
-I’m studying the Node.js, ReactJS, and React Native stack, currently doing the Bootcamp Ignite, provided by Rocketseat which is adding a lot of knowledge with practical projects that are more aligned with the market. In addition, I love to study in a self-taught way to improve my skills and acquire new knowledge.
+I’m studying the Node.js, ReactJS, and React Native stack, currently doing the Bootcamp Ignite, provided by Rocketseat(https://lp.rocketseat.com.br/ignite) which is adding a lot of knowledge with practical projects that are more aligned with the market. In addition, I love to study in a self-taught way to improve my skills and acquire new knowledge.
 
 <!--
 **MarcoDevelop/MarcoDevelop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
