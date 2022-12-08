@@ -1,4 +1,4 @@
-Hi, I'm Marco, a Full-Stack Developer from Brazil, I graduated in Systems Analysis and Development. Currently, I work as a service provider at MEI doing IT consulting.
+Hi, I'm Marco, a Software Engineer from Brazil, I graduated in Systems Analysis and Development. Currently, I work as a service provider at MEI doing IT consulting.
 
 I have always been passionate about technology. I started my career in the Technical course in Informatics and then entered the period of Analysis and Systems Development.
 
